@@ -18,13 +18,6 @@
       "category": "KNOWLEDGE_AND_TRIVIA",
       "distributionCountries": []
     },
-    "apis": {
-      "custom": {
-        "endpoint": {
-          "uri": "arn:aws:lambda:us-west-2:836697453671:function:ask-hello-world-default-skillSt-AlexaSkillFunction-aJy2UnzJH2to"
-        }
-      }
-    },
     "manifestVersion": "1.0"
   }
 }
