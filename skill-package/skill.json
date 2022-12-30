@@ -18,6 +18,13 @@
       "category": "KNOWLEDGE_AND_TRIVIA",
       "distributionCountries": []
     },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": ""
+        }
+      }
+    }
     "manifestVersion": "1.0"
   }
 }
