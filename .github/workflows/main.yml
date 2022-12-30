@@ -43,7 +43,6 @@ jobs:
         sudo apt-get install -y jq
         cd lambda;
         npm install;
-        npm run copy-package;
         cd src;
         npm run build-production
     - run: ls -la && ask deploy --ignore-hash  
